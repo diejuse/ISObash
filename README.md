@@ -14,4 +14,4 @@ How to play?
 3.     Open any Linux terminal from computer (tty or pty) or Android phone (Termux) and go to the path where you downloaded the file.
 4.     bash ISObash.sh
 
-![alt text](https://github.com/diejuse/ISObash/blob/main/ISObash.png)
+![alt text](https://github.com/diejuse/ISObash/blob/bf19f9f80e8f9c002fb8d8bdca2ed4af96229742/isoBash.png)
