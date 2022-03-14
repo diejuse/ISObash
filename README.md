@@ -3,7 +3,7 @@ A prototype of a isometric engine made in Bash.
 
 Now: 0.1 version
 
-I love the old isometric 8 bit games: Knight Lore (1984), Batman (1986), Head Over Heels (1987), La abadia del crimen (1987)... 
+I love the old isometric 8 bit games: Knight Lore (1984), Batman (1986), Head Over Heels (1987), La abadía del crimen (1987)... 
 I decided as a challenge to create a ASCII graphics basic demo engine in BASH language. Run on any Linux terminal.
 
 Who is interested can use my code to continue it. The only requirement of MIT license is to mention the source and me as the creator :)
