@@ -1,5 +1,5 @@
 # ISObash
-A prototype of a isometric engine made in Bash.
+A prototype of a isometric engine made in Bash. Demo video: https://youtu.be/j2Oekzq53dQ
 
 Now: 0.1 version
 
